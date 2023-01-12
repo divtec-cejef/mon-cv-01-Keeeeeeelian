@@ -24,7 +24,9 @@ h2 {
     color: white;
 }
 
-p:hover {
-    background-color: red;
+img {
+    max-width: 100%;
+    height: auto;
 }
+
 
