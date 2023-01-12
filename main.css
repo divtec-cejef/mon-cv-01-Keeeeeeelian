@@ -1,0 +1,30 @@
+body {
+    color: white;
+    background-color: lightgray;
+    background-image: url("https://static.wikia.nocookie.net/dark-netflix/images/f/fd/Dark_Title_Screen.jpg");
+    background-size: 1000px;
+}
+
+h1 {
+    color: dimgray;
+    font-size:40px;
+    font-family: Akronim;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+    max-width: 450px;
+}
+
+h2 {
+    color: white;
+}
+
+p:hover {
+    background-color: red;
+}
+
