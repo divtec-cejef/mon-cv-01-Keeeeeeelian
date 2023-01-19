@@ -1,32 +1,40 @@
 body {
     color: white;
-    background-color: lightgray;
-    background-image: url("https://static.wikia.nocookie.net/dark-netflix/images/f/fd/Dark_Title_Screen.jpg");
-    background-size: 1000px;
+    background-image: url("https://autodiffusion.laborie.ms/templates/captain/img/interface/fond_titre.png");
+    text-align: center;
+    max-width: 100%;
 }
 
 h1 {
     color: dimgray;
     font-size:40px;
-    font-family: Akronim;
+    font-family: Roboto;
 }
 
 p {
-    color: white;
+    color: dimgray;
+    font-family: Roboto;
 }
 
 ul {
-    color: white;
+    color: dimgray;
     max-width: 450px;
+    display: inline-block;
+    margin: auto;
+    text-align: left;
+    font-family: "Courier New";
 }
 
 h2 {
-    color: white;
+    color: darkslategray;
+    font-family: Roboto;
+    text-align: center;
 }
 
 img {
     max-width: 100%;
     height: auto;
+    position: center;
 }
 
 
